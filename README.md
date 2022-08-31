@@ -1,1 +1,3 @@
-# Hospital-Management-System-
+# Hospital-Management-System
+Develop a database management system to manage a hospital. Assign unique IDstothepatients and store the relevant information under the same. You’ll have toaddthepatient’s name, personal details, contact number, disease name, and thetreatmentthe patient is going through. You’ll also have to mention under whichhospitaldepartment the patient is (such as cardiac, gastro, etc.).
+After that, you should add information about the hospital’s doctors. A doctorcantreat multiple patients, and he/she would have a unique ID as well. Doctorswouldalso be classified in different departments.
